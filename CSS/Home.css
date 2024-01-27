@@ -93,14 +93,40 @@ text-align: center;
 
 
 
+.ho1 {
+text-align: center  ;
+
+
+}
 
 
 
+.card1 {
+/* background-color: bisque; */
+width: 230px;
+height: 230px;
+text-align: center;
+border-radius: 12px;
+margin: 40px;
+border: black solid 1px;
+display: inline-block ;
+}
 
 
 
+/* .card2 {
+
+background-color: bisque;
+width: 330px;
+height: 200px;
+text-align: center;
+border-radius: 12px;
+margin: 40px;
+border: black solid 1px;
+display: inline-block;
 
 
+} */
 
 
 
