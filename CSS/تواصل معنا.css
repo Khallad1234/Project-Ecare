@@ -1,46 +1,25 @@
 .dt1 {
-text-align: center;
-
-
-
+  text-align: center;
 }
 
-
-
 .cardt1 {
-    /* background-color: bisque; */
-    width: 330px;
-    height: 230px;
-    text-align: center;
-    border-radius: 12px;
-    margin: 40px;
-    border: black solid 1px;
-    display: inline-block ;
-    
-
-    }
-
-
+  /* background-color: bisque; */
+  width: 330px;
+  height: 230px;
+  text-align: center;
+  border-radius: 12px;
+  margin: 40px;
+  border: black solid 1px;
+  display: inline-block;
+  text-decoration: none;
+}
 
 .pcolor {
-color: #76b740;
-
-
-
+  color: #76b740;
+  text-decoration: none;
 }
 
 .khd {
-color: #575757;
-
-
-
+  color: #575757;
+  text-decoration: none;
 }
-
-
-
-
-
-
-
-
-
