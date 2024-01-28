@@ -1,0 +1,19 @@
+.name{
+  
+  text-align: center;
+  margin-left: 60px;
+
+}
+
+.di{
+
+display: flex;
+gap: 300px;
+
+}
+
+.neme12{
+
+height: 80px;
+width: 90px;
+}
