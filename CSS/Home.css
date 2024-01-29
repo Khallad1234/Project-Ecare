@@ -3,10 +3,11 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color:#FFFFEC;
+    /* background-color:#FFFFEC; */
     /* background-color: #B19470; */
   }
 
+  
 .d1 {
 
 
@@ -130,3 +131,17 @@ display: inline-block;
 
 
 
+
+.divhome1 {
+text-align: center;
+
+
+}
+
+.imghome0 {
+margin-left: 360px;
+
+
+
+
+}

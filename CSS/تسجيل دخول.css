@@ -19,7 +19,7 @@
     content: "";
     width: 300px;
     height: 300px;
-    background-color: #2448ff87;
+    background-color: #65bd9a;
     transform: rotate(45deg);
     left: -180px;
     bottom: 30px;
@@ -66,7 +66,7 @@
   
   .inputField:focus {
     outline: none;
-    border-bottom: 2px solid #2447FF;
+    border-bottom: 2px solid #65bd9a;
   }
   
   .inputField::placeholder {
@@ -80,7 +80,7 @@
     position: relative;
     width: 100%;
     border: none;
-    background-color: #2447FF;
+    background-color: #57a586;
     height: 30px;
     color: white;
     font-size: .8em;
@@ -91,7 +91,7 @@
   }
   
   #button:hover {
-    background-color: rgb(126, 84, 255);
+    background-color: #65bd9a;
   }
   
   .forgotLink {
