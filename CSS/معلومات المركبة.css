@@ -1,5 +1,5 @@
 .login {
-    color: #2447FF;
+    color: #57a586;
     text-transform: uppercase;
     letter-spacing: 2px;
     display: block;
@@ -16,8 +16,8 @@
     flex-direction: column;
     gap: 35px;
     background: #e3e3e3;
-    box-shadow: 16px 16px 32px #2447FF,
-          -16px -16px 32px #2447FF;
+    box-shadow: 16px 16px 32px #65bd9a,
+          -16px -16px 32px #57a586;
     border-radius: 8px;
     margin-left: 480px;
   }
