@@ -42,7 +42,7 @@
     display: flex;
     justify-content: center;
     align-items: start;
-   margin-right: 520px;
+   margin-right: 552px;
    
   }
 
@@ -71,13 +71,13 @@
 
 
  .t1 {
-background-color:#000000;
+  background-color: #50b8d6 ;
 padding: 10px;
 border-radius: 8px;
  }
 
 .t2 {
-background-color:#2447FF;
+  background-color:#55631b;
 padding: 10px;
 border-radius: 8px;
 
