@@ -42,7 +42,7 @@
     display: flex;
     justify-content: center;
     align-items: start;
-   margin-right: 400px;
+   margin-right: 480px;
    
   }
 
@@ -71,13 +71,13 @@
 
 
  .t1 {
-  background-color: #50b8d6 ;
+  background-color: #57a586 ;
 padding: 10px;
 border-radius: 8px;
  }
 
 .t2 {
-  background-color:#55631b;
+  background-color:#57a586;
 padding: 10px;
 border-radius: 8px;
 
@@ -101,6 +101,13 @@ top: 400px;
 }
 
 
+.nav11 {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+ margin-right: 550px;
 
+
+}
 
 
